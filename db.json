@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "vaibhav",
+      "age": "20",
+      "DOB": "2022-04-06",
+      "residence": "MAHARASHTRA",
+      "address": "Hari om nagar collector zone",
+      "pincode": "423203",
+      "id": 1
+    },
+    {
+      "name": "vaibhav",
+      "age": "20",
+      "DOB": "2022-04-13",
+      "residence": "MAHARASHTRA",
+      "address": "Hari om nagar collector zone",
+      "pincode": "423203",
+      "id": 2
+    },
+    {
+      "name": "hay",
+      "age": "20",
+      "DOB": "2022-04-06",
+      "residence": "MAHARASHTRA",
+      "address": "Hari om nagar collector zone",
+      "pincode": "423203",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
